@@ -1,0 +1,25 @@
+{
+  "transactions": [
+    {
+      "date": "2026-04-10",
+      "type": "Income",
+      "category": "Amazon DSP",
+      "description": "Weekly Amazon Pay",
+      "amount": 531.9
+    },
+    {
+      "date": "2026-04-14",
+      "type": "Expense",
+      "category": "Rent / Bills",
+      "description": "Fuel and Meal Deal",
+      "amount": 58.88
+    },
+    {
+      "date": "2026-04-10",
+      "type": "Expense",
+      "category": "Rent / Bills",
+      "description": "Paying off Barclaycard",
+      "amount": 115.09
+    }
+  ]
+}
